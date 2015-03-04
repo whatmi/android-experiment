@@ -36,7 +36,4 @@ public class SharedPreferencesExample2 extends Activity {
 			Toast.makeText(getApplicationContext(), "처음 방문이 아니네 ?", Toast.LENGTH_SHORT).show();
 		}
 	}
-	
-	
-	
 }
