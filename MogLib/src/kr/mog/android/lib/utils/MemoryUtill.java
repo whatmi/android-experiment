@@ -4,6 +4,13 @@ import android.app.ActivityManager;
 import android.app.ActivityManager.MemoryInfo;
 import android.content.Context;
 
+
+/**
+ *
+ *
+ * Created by hmj on 2015. 3. 4. ¿ÀÈÄ 2:02:09
+ *
+ */
 public class MemoryUtill {
 	
 	public static int getMemoryClass(Context context) {
